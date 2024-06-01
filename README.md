@@ -10,10 +10,23 @@ The MPU6050's peripheral circuits do not need to be welded! ICS-43434 on the boa
 
 Of course, you can also directly open my Lichuang project to modify, export BOM table, I draw a bunch of PCB anyway.
 
-<img src="./4.Docs/mat.jpg" alt="mat" width="300"/>
-<img src="./4.Docs/PCB2.png" alt="PCB2" width="300"/>
-<img src="./4.Docs/p2.jpg" alt="p2" width="300"/>
-<img src="./4.Docs/p3.jpg" alt="p3" width="300"/>
+
+<p align="center">
+    <img src="./4.Docs/mat.jpg" alt="mat" width="300"/>
+</p>
+
+<p align="center">
+    <img src="./4.Docs/PCB2.png" alt="PCB2" width="300"/>
+</p>
+
+<p align="center">
+    <img src="./4.Docs/p2.jpg" alt="p2" width="300"/>
+</p>
+
+<p align="center">
+    <img src="./4.Docs/p3.jpg" alt="p3" width="300"/>
+</p>
+
 
 
 
