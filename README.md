@@ -4,11 +4,11 @@
 
 [视频链接](https://www.bilibili.com/video/BV1xz421S7d6/?spm_id_from=333.788.0.0&vd_source=6993c687c4c026d4a88b3e5712b40113)
 
-想复刻请注意，这个项目的PCB本来不是用来做这个对话机器人的，我只是清一下库存！
+Please note that the PCB of this project is not originally used to make this dialogue robot, the reason I made it just is  i want to clear the inventory!
 
-MPU6050的外围电路用不到也不用焊！板子上的ICS-43434也可以不用焊（这东西太难焊了，焊好几块都收不到音），直接用模块更好！
+The MPU6050's peripheral circuits do not need to be welded! ICS-43434 on the board can also be welded without (this thing is too difficult to weld, welding several pieces can not receive the sound), directly use the module better!
 
-当然你也可以直接打开我的立创工程进行修改、导出BOM表，我PCB反正画的一坨。
+Of course, you can also directly open my Lichuang project to modify, export BOM table, I draw a bunch of PCB anyway.
 
 ![实拍图](./4.Docs/mat.jpg)
 
