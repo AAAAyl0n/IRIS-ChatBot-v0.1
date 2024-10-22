@@ -8,7 +8,7 @@ Please note that the PCB of this project is not originally used to make this dia
 
 The MPU6050's peripheral circuits do not need to be welded! ICS-43434 on the board can also be welded without (this thing is too difficult to weld, welding several pieces can not receive the sound), directly use the module better!
 
-Of course, you can also directly open my Lichuang project to modify, export BOM table, I draw a bunch of PCB anyway.
+Of course, you can also directly open my Lichuang project to modify, export BOM table. My PCB looks like a piece of shit, anyway.
 
 
 <p align="center">
